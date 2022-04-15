@@ -1,0 +1,14 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-content {
+    width: 20vw;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    
+}

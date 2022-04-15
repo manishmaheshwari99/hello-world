@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import First from './First';
+import Login from './pages/Login';
 
 function App() {
   return (
     <div className="App">
-      <p>Hello World</p>
-      <First name="manish" />
+      <Login />
     </div>
   );
 }
