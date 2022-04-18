@@ -9,6 +9,11 @@
 
 .form-group{
     display: flex;
-    flex-direction: column;
-    
+    flex-direction: column;   
+}
+.form-container {
+    margin-top: 20px;
+}
+.form-group {
+    margin-bottom: 15px;
 }
